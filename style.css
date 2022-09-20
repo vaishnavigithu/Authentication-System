@@ -1,0 +1,19 @@
+body{
+    background: url('https://media.istockphoto.com/vectors/lowpoly-trendy-background-with-copyspace-vector-illustration-used-vector-id913690288?k=20&m=913690288&s=612x612&w=0&h=H9E8PGF1ehWDGJkm-6QyI6y-1L8izY1rkO2uevliK8o=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    /* opacity: 0.9; */
+ }
+ 
+ #signup-form{
+     width: 800px;
+     margin: 20px auto;
+ }
+ #login-form{
+     width: 700px;
+     margin: 20px auto;
+ }
+ #signup-form, #login-form{
+     display: none;
+ }
